@@ -1,0 +1,11 @@
+num=["ten",1,4,1,5,9,1]
+print(num[0])
+print(num[-1])
+print(num[:2])
+print(num[:-1])
+print(num[3:6])
+print(5 in num)
+print(7 in num)
+print("3" in num)
+print(num+[6,5,3])
+print(num[2:len(num)])
